@@ -1,4 +1,4 @@
-# 🏠 Imobiliária Neemias — CRM Inteligente com IA no WhatsApp
+# 🏠 Imobiliária CRM Inteligente com IA no WhatsApp
 
 Sistema completo de atendimento automatizado via WhatsApp com CRM em tempo real, construído sobre **n8n**, **Supabase**, **Evolution API** e **Lovable**.
 
